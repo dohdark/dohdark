@@ -1,4 +1,4 @@
-### Hellow 👋
+###  👋
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F795&background=FFFFFF00&random=false&width=435&lines=Hhhhhhhhhhhhhhhhhhhhh....;wooooooobbss...)](https://git.io/typing-svg)
@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
 </div>
-
-
+<br>
+<br>
 
 
 
