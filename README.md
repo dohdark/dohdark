@@ -1,7 +1,7 @@
-###  👋
+###  👋안녕하세요👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F795&background=FFFFFF00&random=false&width=435&lines=Hhhhhhhhhhhhhhhhhhhhh....;wooooooobbss...)](https://git.io/typing-svg)
+//[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F795&background=FFFFFF00&random=false&width=435&lines=Hhhhhhhhhhhhhhhhhhhhh....;wooooooobbss...)](https://git.io/typing-svg)
 
   <img src="https://render.gitanimals.org/lines/{dohdark}?pet-id=1&contribution-view=false" width="1000" height="120"/>
 
